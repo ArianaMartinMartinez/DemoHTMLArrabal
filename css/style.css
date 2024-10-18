@@ -1,0 +1,15 @@
+header, footer {
+    background-color: coral;
+}
+
+main, body {
+    background-color: blanchedalmond;
+}
+
+.linkedin {
+    width: 50px;
+}
+
+table {
+    margin: 0 auto;
+}
